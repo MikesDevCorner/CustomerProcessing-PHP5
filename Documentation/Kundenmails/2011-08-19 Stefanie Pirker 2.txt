@@ -1,0 +1,7 @@
+Bei Eingabe der Schulen unter „Reservierungen“-„Anfragen“ gibt es öfters keinen Ersatzturnus, deshalb bitte dieses Feld als Pflichtfeld entfernen. Generell fehlen oft viele Daten – deshalb können eigentlich ALLE Pflichtfelder entfernt werden.
+
+ 
+
+Mit freundlichen Grüßen,
+
+Stefanie Pirker

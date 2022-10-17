@@ -1,0 +1,269 @@
+/* Allgemein gültige CSS */
+
+a:link {color: #15428B;}
+a:visited {color: #15428B;}
+a:active {color: #FF1111;}
+a:hover {color: #A50B0B;}
+a {text-decoration: none;}
+
+
+html, body {
+  font: 11px arial,tahoma,helvetica,sans-serif;
+  margin:0;
+  padding:0;
+  border:0 none;
+  overflow:hidden;
+  height:100%;
+  
+}
+
+.x-layout-cmini-east {
+    /*background:#f5f5f5;*/
+    background:#E1E7EF;
+}
+
+.x-form-item{
+    font: 11px arial,tahoma,verdana,helvetica;
+}
+
+.x-toolbar td,.x-toolbar span,.x-toolbar input,.x-toolbar div,.x-toolbar select,.x-toolbar label{
+    font:normal 11px arial,tahoma, helvetica, sans-serif;
+}
+
+.x-grid3-body {
+    color:#444;
+}
+
+.x-form-item {
+    color:#444;
+}
+
+#northbox div {
+    background-color: #E1E8EF;
+    /*background-image: url(../../../Resources/images/headerback.jpg);*/
+    background-repeat:repeat-x;
+    background-position: top right;
+    text-align:right;
+}
+
+.htitle {
+    padding-right:12px;
+    padding-top:7px;
+    float:right;
+    color: #15428B;
+    font-family: tahoma,arial,verdana,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.msg .x-box-mc {
+    font-size:12px;
+    font-weight: normal;
+}
+#msg-div {
+    position:absolute;
+    left:35%;
+    top:15px;
+    width:400px;
+    z-index:30000;
+}
+
+p {
+  margin:5px;
+}
+
+
+/* Icon-CLS - Also Pics für die Icons */
+.logout {
+    background-image:url(../../../Resources/images/exit.png) !important;
+}
+.add {
+    background-image:url(../../../Resources/images/add.png) !important;
+}
+.delete {
+    background-image:url(../../../Resources/images/delete.png) !important;
+}
+.deny {
+    background-image:url(../../../Resources/images/deny.png) !important;
+}
+.grant {
+    background-image:url(../../../Resources/images/grant.png) !important;
+}
+.save {
+    background-image:url(../../../Resources/images/save.png) !important;
+}
+.archiv {
+    background-image:url(../../../Resources/images/archiv.png) !important;
+}
+.bett {
+    background-image:url(../../../Resources/images/bed.png) !important;
+}
+.search {
+    background-image:url(../../../Resources/images/search.png) !important;
+}
+.schreiben {
+    background-image:url(../../../Resources/images/schreiben.png) !important;
+}
+.email {
+    background-image:url(../../../Resources/images/email.png) !important;
+}
+.password {
+    background-image:url(../../../Resources/images/password.png) !important;
+}
+.help {
+    background-image:url(../../../Resources/images/help.png) !important;
+}
+.print {
+    background-image:url(../../../Resources/images/print.gif) !important;
+}
+
+.calculator {
+    background-image:url(../../../Resources/images/version.png) !important;
+}
+
+.calendar {
+    background-image:url(../../../Resources/images/16x16/calendar_16.png) !important;
+}
+.calendar2 {
+    background-image:url(../../../Resources/images/16x16/calendar_date.png) !important;
+}
+.process {
+    background-image:url(../../../Resources/images/16x16/process.png) !important;
+}
+.windows {
+    background-image:url(../../../Resources/images/16x16/windows.png) !important;
+}
+.database {
+    background-image:url(../../../Resources/images/16x16/database.png) !important;
+}
+.shopping {
+    background-image:url(../../../Resources/images/16x16/shopping_cart.png) !important;
+}
+.tickets {
+    background-image:url(../../../Resources/images/16x16/bookmark_16.png) !important;
+}
+.kunden {
+    background-image:url(../../../Resources/images/16x16/community_users.png) !important;
+}
+.ausschreibungen {
+    background-image:url(../../../Resources/images/16x16/mail_next.png) !important;
+}
+.user {
+    background-image:url(../../../Resources/images/16x16/user.png) !important;
+}
+.users {
+    background-image:url(../../../Resources/images/16x16/users.png) !important;
+}
+.paket {
+    background-image:url(../../../Resources/images/16x16/product16.png) !important;
+}
+.pakete {
+    background-image:url(../../../Resources/images/16x16/inventory-maintenance16.png) !important;
+}
+.globe {
+    background-image:url(../../../Resources/images/globe_16.png) !important;
+}
+.log {
+    background-image:url(../../../Resources/images/log.png) !important;
+}
+.bus {
+    background-image:url(../../../Resources/images/bus.png) !important;
+}
+.reports {
+    background-image:url(../../../Resources/images/16x16/chart.png) !important;
+}
+.comment {
+    background-image:url(../../../Resources/images/comment.png) !important;
+}
+.tutorial {
+    background-image:url(../../../Resources/images/tutorial.png) !important;
+}
+.version {
+    background-image:url(../../../Resources/images/16x16/info_16.png) !important;
+}
+.pdf {
+    background-image:url(../../../Resources/images/16x16/pdf.png) !important;
+}
+.diagram {
+    background-image:url(../../../Resources/images/16x16/diagram_16.png) !important;
+}
+.monitor {
+    background-image:url(../../../Resources/images/16x16/monitor_16.png) !important;
+}
+.excel {
+    background-image:url(../../../Resources/images/excel.gif) !important;
+}
+
+/*Grid-Renderer-Klassen*/
+.redboldtext {
+    color:red;
+    font-weight: bold !important;
+}
+.redtext {
+    color:red;
+}
+.greentext {
+    color:green;
+}
+.lightred {
+    background-image:url(../../../Resources/images/red.png);
+}
+
+.lightgreen {
+    background-image:url(../../../Resources/images/green.png);
+}
+
+
+
+
+/* CSS für den Loading-Indicator - Also für die Lademaske */
+#loading{
+    position:absolute;
+    left:40%;
+    top:40%;
+    padding:3px;
+    z-index:20001;
+    height:auto;
+    border:1px solid #aaa;
+}
+#loadingDiv {
+    margin-right:8px;
+    float:left;
+    vertical-align:top;
+}
+#loading .loading-indicator{
+    background:white;
+    color:#444;
+    font:bold 13px tahoma;
+    padding:10px;
+    margin:0;
+    height:auto;
+}
+#loading-msg {
+    font: normal 10px tahoma;
+}
+
+
+#historyPortlet .x-grid3 {
+   background-color:#E1E8EF;
+}
+
+#historyPortlet .x-grid3-row-alt {
+   background-color:#E1E8EF;
+}
+
+#historyPortlet .x-grid3-row-selected {
+  background:#E1E8EF !important;
+}
+
+#historyPortlet .x-grid3-row-over {
+  background:transparent;
+  border:1px solid;
+  border-color:#E1E8EF !important;
+}
+#historyPortlet .x-grid3-row {
+    color:#15429A;
+    border:1px solid;
+    border-color:#E1E8EF !important;
+}
+

@@ -1,0 +1,32 @@
+Hallo Roland,
+
+ 
+
+nachdem wir gestern alle zusammen über dem Buchungsprogramm gesessen sind, bitte ich dich, folgende Änderungen vorzunehmen:
+
+ 
+
+1.       Buchungslisten Partner:
+
+Name des Partners über die Liste schreiben und nicht in jeder Zeile dazu, nimmt zu viel Platz weg
+
+ 
+
+2.       Bei der Verwaltung unter Leistung das Feld für den Preis weglassen – es bringt nichts, weil wir nirgends eine Übersicht für die Kosten pro Schule haben und ist deshalb nur zusätzlich zum eingeben – Mehrarbeit!
+
+3.       Bei den Buchungen brauchen wir noch zusätzlich Felder mit der Abfahrtszeit bei der Schule und Ankunftszeit bei der Schule
+
+4.       Die Leistungen bei den Schulen laut Buchungsbestätigung werden alphabetisch geordnet. Könnt ihr das auf chronologisch umstellen?
+
+5.       Die bereits vorhandenen Schulen sollten nicht erst bei der Übernahme einer Anfrage als Buchung vorgeschlagen werden, sondern bereits bei der Eingabe der Anfrage; ansonsten hilft uns die Datenbank ja nichts
+
+6.       WICHTIG: Die Busplanung kann so nicht bleiben, das bedeutet für uns so nur Mehrarbeit und keine Zeitersparnis.
+
+Man müsste einzelne Buchungen auswählen können und diese per Klick an die Busunternehmen, die anbieten sollen, abschicken können. Weiters müsste man noch eine Funktion einbauen, um die Zusammenlegung mehrerer Schulen in einem Bus kenntlich zu machen. Statt dem Feld der Tourenbeschreibung bei den Bustouren müsste man die Buchungsbestätigungen der Schulen anfügen können.
+
+ 
+
+Liebe Grüße
+
+
+Steffi

@@ -1,0 +1,15 @@
+- Anrede in Begleitpersonen einbauen
+- Anrede (2x) in Anfrage einbauen (Meldermaske und Dokument)
+- Anrede (2x) in Buchungsansicht einbauen
+- Kunden-Auswahlfeld bei Anfragen (nur in Applikation, nicht auf Meldermaske)
+- Name des Partners bei Auswertung nicht in Liste, sondern in Titel (nur Applikation, nicht Excel)
+- Abfahrt und Ankunft (Timefield) in Buchung einbauen
+- Buchung --> Neuer Reiter "SonstigeS" --> letzter Bearbeiter, letzte Bearbeitung
+- Userverwaltung --> Userhistory per Klick in Tabelle unter den Userdaten
+- Import Kundendaten lt. Excel-Liste
+- Katalogbezieher --> Anrede hinzufügen
+- Katalogbezieher --> Meldermaske gestalten und als View zugänglich machen
+- Anchors bei allen Formularen prüfen und richtigstellen (97% sollten passen)
+- Serienbrief-Vorlagen als Word-Dok erstellen und per Button downloaden (Buchungen, Bustouren, Katalogbezieher)
+  Serienbriefe sollten als Datenquelle die Excel-Downloadlisten benützen
+- Excel-Download bei Katalogbeziehern erstellen

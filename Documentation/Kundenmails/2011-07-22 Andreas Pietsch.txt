@@ -1,0 +1,74 @@
+Guten Tag Herr Widmayer,
+
+ 
+
+nach Rücksprache mit unserem Provider Hr. Zöhrer (03168 / 17 21 80) von Pronet folgende Infos:
+
+ 
+
+PHP-Version: 5.3
+
+SQL-Version: 5.1.x
+
+ 
+
+Datenbank ist redundant ausfallgesichert. Es stünde alternativ auch PostGreSQL zur Verfügung.
+
+ 
+
+Die Zugangsdaten
+
+ 
+
+Server
+
+ 
+
+www.kaernten-aktiv.at
+
+User : ka007ned_jugendaktiv
+
+PW : lockhorse
+
+ 
+
+SQL-DB
+
+ 
+
+mysql05.edis.at
+
+User : ka007ned
+
+PW : barbar09
+
+--
+
+ 
+
+Bitte um Überspielen des Programms auf den Server. Bei Problemen oder Rückfragen technischer Art bitte mit Herrn Zöhrer, administrativer Art direkt mit mir Kontakt aufnehmen.
+
+ 
+
+Vielen Dank im Voraus,
+
+mit freundlichen Grüßen
+
+ 
+
+Andreas Pietsch
+
+--
+Mag. Andreas Pietsch
+Organisationsmanagement
+
+Kärnten aktiv Catering und Veranstaltungsgesellschaft m.b.H.
+Tessendorfer Straße 35
+9020 Klagenfurt
+Tel.: +43 (0) 463 / 91 45 35 - 400
+Mobil: +43 (0) 664 / 85 36 003
+Fax.: +43 (0) 463 / 91 81 84
+
+E-Mail: andreas.pietsch@kaernten-aktiv.at
+
+Web: www.kaernten-aktiv.at | www.kaernten-aktiv-catering.at

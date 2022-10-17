@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+	<dbHost>localhost</dbHost>
+	<dbUser>projectuser</dbUser>
+	<dbPort>3306</dbPort>
+	<dbPassword>wifi@wifi0</dbPassword>
+	<dbName>customer-processing</dbName>
+	<logo>logo2.png</logo>
+	<title>Customer Processing</title>
+</config>

@@ -1,0 +1,25 @@
+Sehr geehrter Herr Widmayer,
+
+ 
+
+wir sind gerade dabei, das Programm zu testen und sind somit auf das nächste Problem gestoßen:
+
+Ich bearbeite gerade die Leistungen in den Stammdaten, welche dann in den Angebotsvorlagen den Regionen bzw. Programmen zugeordnet werden. Nun habe ich für die Region „Heidenreichstein“ den Programmpunkt/Leistung „Apfelthaler’s Glashütte“ um 8:30 Uhr, in der Region Litschau gibt es die Leistung „Apfelthaler’s Glashütte“ um 10:00 Uhr. (Es gibt viele Programme, die in anderen Regionen zu anderen Uhrzeiten stattfinden). Es müsste uns ermöglicht werden, bei der Angebotsverwaltung nicht nur den jeweiligen Tag zu ändern, sondern auch die Uhrzeiten, um die Leistung nicht 2 mal eintragen zu müssen (wo wir ein Problem hätten, da der Name gleich ist und somit bei der Auswahl in der Angebotsverwaltung nicht unterschieden werden kann).
+
+ 
+
+Des Weiteren muss ich Ihnen erneut mitteilen, dass die Partner immer wieder durch Zahlen ersetzt werden, was bei unserer Bearbeitung zu Problemen führt!!!
+
+ 
+
+Die Buchungen von Steffi Niederberger scheinen bei Berichtwesen und Region Heidenreichstein auf, sind aber unter den Reservierungen nicht mehr vorhanden (VS Mautern, Phyrer und Paudorf). Jene Buchung, die wir gestern eingegeben haben (VS Lacknergasse) scheint hingegen bei den Reservierungen auf, jedoch nicht beim Berichtwesen in der Region?!?
+
+ 
+
+Eine Unterteilung in „Anfrage“ und „Buchung“ ist nicht notwendig, hier würde es reichen, wenn man lediglich anhaken könnte, ob die Buchung „fix“ oder „offen“ ist. Und dies in der Regionenliste ersichtlich ist. Dafür es aber umso wichtiger, dass man unter Buchungen eine bereits eingegebene Buchung auch hinsichtlich der Region abändern kann.
+
+ 
+
+Mit freundlichen Grüßen,
+
+Stefanie Pirker

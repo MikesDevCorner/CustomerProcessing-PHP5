@@ -1,0 +1,19 @@
+- Bug: Buchung übernehmen --> ID von AP2 verwenden (Grid2 statt Grid1)
+- Bug: Angebotsvorlagen --> Leistungen und Regionen beim Speichern auf doppelte Werte in der Grid prüfen und nicht speichern lassen fals true
+- Buchung --> AP1 und AP2 mit Combobox versehen und die AP's wählbar machen (alle AP's des Kunden in den Store der Combo laden)
+- Buchung --> Einzelne Detailzeitplanpunkte änderbar machen und beim Speichern in die Echtleistungen übernehmen
+- Buchung --> Statusse: gebucht, bestätigt, erledigt --> auf diese Statusse ändern
+- Userrechte --> Leserecht und Schreibrecht in den Server-Commands abprüfen und entsprechend reagieren. Auch am Client beim Application-Start abrufen und alle Felder ReadOnly machen falls nur Leserecht
+- Notizen für Buchungen erledigen. Anmerkung einer Anfrage als Buchungs-Notiz übernehmen.
+- Bustouren programmieren und mit Buchung verknüpfen. Button zum Abrufen eines Excel-Dokuments mit den Routendaten und Vordruck um den Preis rückzumeden, zum Senden an den Busunternehmer.
+- Buchung --> Suchfilter für Buchungstatus hinzufügen
+- Buchung --> Tab Detailplan umbenennen und Angebotsname + Region andrucken
+- Dashboard gestalten und als Startpunkt einhängen
+- Ausschreibung Busse inkl. Buchungsauswahl erstellen.
+- Zeitplan-Vorlagen-Excel erstellen und Button bei Buchung einbauen, um die aktuelle Zeittabelle als Buchungsbestätigungs-Excel abrufen zu können
+- Katalogbezieher erstellen
+- Turnusse erstellen
+- Alle 2 Reports designen und erstellen
+- Hilfe schreiben
+- Meldermaske erstellen und in vorhandene Jugend-Aktiv Homepage integrieren
+- Migration von bestehender Kundenliste in unsere Datenbank

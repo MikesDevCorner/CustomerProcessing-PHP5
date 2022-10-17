@@ -1,0 +1,12 @@
+- Buchung --> Bustour beim Rowclick-Event der Auswahlliste laden
+- Buchung --> Zeitplan-Vorlagen-Excel erstellen, am Server ablegen. Download-Button bei Buchung einbauen, der die Buchungsdaten in das Excel kopiert und herunterlädt
+- Bustouren --> programmieren und mit Buchung verknüpfen.
+- Bustouren --> Button zum Abrufen eines Excel-Dokuments mit den Routendaten und Vordruck um den Preis rückzumeden, zum Senden an den Busunternehmer.
+- Userrechte --> Leserecht und Schreibrecht in den Server-Commands abprüfen und entsprechend reagieren. Auch am Client beim Application-Start abrufen und alle Felder ReadOnly machen falls nur Leserecht
+- Dashboard --> gestalten und als Startpunkt einhängen
+- Katalogbezieher --> erstellen
+- Report --> Buchung pro Partner
+- Report --> Buchung pro Region
+- Hilfe --> erstellen
+- Meldermaske --> erstellen und in vorhandene Jugend-Aktiv Homepage integrieren
+- Migration von bestehender Kundenliste in unsere Datenbank

@@ -1,0 +1,45 @@
+Sehr geehrter Herr Widmayer,
+
+ 
+
+Bei den Stammdaten muss generell eine Trennung erfolgen, welche bei Eingabe der Daten ausgewählt werden können:
+
+1.       Bundesland (Niederösterreich, Steiermark, Oberösterreich & Salzburg, Kärnten, 5 Tages-Programme)
+
+2.       Region (jeweilige dazugehörige Regionen)
+
+a.       Niederösterreich (Thayatal A, Thayatal B, Ich – Du –Wir, Heidenreichstein, Schrems – Weitra, Litschau A, Litschau B, Annaberg – Mariazell A, Annaberg – Mariazell B, Manhartsberg, Melk – St.Pölten, Lackenhof, Neuhofen/Ybbs – Haag, Weidhofen/Ybbs, St. Corona am Wechsel, Göstling/Ybbs, Bad Kreuzen, Seefeld, Mariazell – St. Sebastian)
+
+b.      ………
+
+ 
+
+Zur Erklärung: Wir wollen als erstes das Bundesland auswählen, danach kommen nur mehr die Regionen, die in diesem Bundesland angeboten werden, danach kommen zum Beispiel die dazugehörigen Partner/Busunternehmen/Leistungen,… (diese dann nach dem Alphabet sortiert!)
+
+ 
+
+-          Stammdaten: Partner: Es soll bitte keine zwingend auszufüllenden Felder geben, da nicht immer alle Daten bekannt sind. Außerdem hätten wir gerne zusätzlich die Felder „Titel, Fax, homepage“
+
+-          Beim Eintragen der e-Mail Adresse sind nach dem Speichern, beim Wiederansehen Buchstaben verschwunden, ist diese Zeile begrenzt?
+
+-          Filterfunktion sollte man mit „enter“ bestätigen können, Groß- und Kleinschreibung ignorieren (funktioniert nicht immer)
+
+-          Turnusse: hier brauchen wir einen Turnusnamen (T01) und ein Datum von-bis (11.04.-13.04.2012), Dauer sieht man somit automatisch…
+
+-          Ordnen nach: Firmenname, Name,… muss möglich sein. Zum Beispiel: Stammdaten – Partner – mit Klick auf „Firmenname“, „Partner“, …. Sollen diese Kategorien nach dem Alphabet/numerisch geordnet werden.
+
+-          Wie telefonisch besprochen: Stammdaten – Leistungen: Wenn man bereits angelegte Leistungen anklickt, sieht man beim „Partner*“ nur eine Nummer statt dem Namen des Partners.
+
+-          Auflistung der Partner, Busunternehmen, Regionen… auf der linken Seite bei „Stammdaten“: Anstatt mehrere Seiten zum Auswählen zu machen wäre es besser, auf- und abscrollen zu können.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mit freundlichen Grüßen,
+
+Stefanie Pirker

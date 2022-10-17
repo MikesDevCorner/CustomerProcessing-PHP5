@@ -1,0 +1,23 @@
+Lieber Roland!
+
+ 
+
+Ich habe mit dem Buchungsprogramm versucht zu arbeiten und bin auf folgende Dinge gestoßen:
+
+1.       Neben den Leistungen in der Angebotsverwaltung muss unbedingt noch als separater Punkt (ohne Uhrzeit aber mit genauer Adressenangabe) das Quartier eingegeben werden können bzw. pro Schule wieder individuell abgeändert werden können bzw. auf der Buchungsbestätigung ausgewiesen werden.
+
+2.       Wie schon von Frau Pirker mitgeteilt, müssen wir die Punkte „Anfrage“ und „Buchung“ unbedingt zusammenlegen. Es reicht, wenn der 4. Punkt „Anfrage“ um das Feld „Status“ erweitert wird. Dies hat den Grund, dass wir nur dann über das Berichtwesen einen Komplettüberlick - in welcher Region, was, zu welchem Zeitpunkt besetzt bzw. frei ist - bekommen können.
+
+3.       Aus meiner Sicht und Erfahrung mit einem älteren Buchungsprogramm wäre es unbedingt notwendig, dass man schon mit dem Einstieg mit dem Passwort ins Programm das jeweilige Kalenderjahr, in der die Buchung anfällt oder welches man bearbeiten will eingibt, um nicht mit der Zeit mehrere hunderte von Buchungen in verschiedenen Jahren in einer Datei zusammengefasst zu haben.
+
+4.       Bezüglich der Zusammenlegung von Schulen betreffend Bustouren etc. wäre es für uns absolut ausreichend, wenn man die Möglichkeit zB mittels der Zuweisung einer gemeinsamen Zahlen an zwei oder mehreren Schulen hat  und diese dann im Berichtwesen in einer Gruppe untereinander aufscheinen und vorher und nachher Leerräume sind. (Detailliertere Erklärung erfolgt telefonisch).
+
+ 
+
+Bitte sieh dir das und die Sachen, die du schon von Frau Pirker und Oberrauner bekommen hast an, und wir besprechen wie schon telefonisch vereinbart am Montag die weitere Vorgehensweise.
+
+ 
+
+Liebe Grüße,
+
+Martin Widrich

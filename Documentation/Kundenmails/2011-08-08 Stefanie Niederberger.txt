@@ -1,0 +1,27 @@
+Hallo Roland,
+
+ 
+
+ich bin jetzt mal alles durchgegangen. Folgende Fragen und Änderungswünsche hätte ich einstweilen:
+
+ 
+
+1.       Wann werden die Daten aus den Excel-Listen, die ich dir geschickt habe, übernommen?
+
+2.       Wann werden die Buchungsanfragen und Kataloganfragen, die von unserer Homepage aus gemacht werden, mit dem Programm verlinkt?
+
+3.       Bei der Eingabe der Turnusse per Hand wird das Datum falsch abgespeichert (Eingabe: 14.09.2011; gespeichert: 14.10.2011)
+
+4.       Die Buchungsbestätigung für die Schulen sollte nach dem bereits übermittelten Format (siehe nochmals Anlage) ausgegeben werden! Bitte ändern!
+
+5.       Wo kann ich die Buchungslisten für die einzelnen Betriebe ansehen?
+
+6.       Das Berichtwesen funktioniert nicht!
+
+ 
+
+Liebe Grüße
+
+ 
+
+Steffi
